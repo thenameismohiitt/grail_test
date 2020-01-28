@@ -1,7 +1,7 @@
 package book
 
-class User {
-   Avatar avatar
+class Forum {
+  static hasMany = [topic:Topic]
     static constraints = {
     }
 }
