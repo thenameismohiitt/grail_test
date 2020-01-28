@@ -1,7 +1,7 @@
 package book
 
-class Topic {
-
+class User {
+   Avatar avatar
     static constraints = {
     }
 }
